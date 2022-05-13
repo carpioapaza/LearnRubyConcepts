@@ -1,0 +1,3 @@
+name: Rodrigo Carpio 
+age: 25 
+position: Developer Junior 
